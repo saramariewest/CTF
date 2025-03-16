@@ -12,6 +12,7 @@
 ```
 Welcome to my CTF repository! 🚀
 This is where I collect my solutions to Capture-the-Flag (CTF) challenges, tools, and notes.
+
 📂 Contents
 
     writeups/ → My solutions for various CTF challenges
@@ -21,6 +22,7 @@ This is where I collect my solutions to Capture-the-Flag (CTF) challenges, tools
 🎯 Purpose
 
 This repository serves as my personal collection of CTF experiences and as a learning resource for others interested in security.
+
 ⚠️ Disclaimer
 
 All content in this repository is for educational purposes only. Please do not use exploits outside of legal CTF environments!
