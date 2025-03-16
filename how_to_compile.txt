@@ -1,2 +1,0 @@
-kompelieren mit:
-gcc -fopenmp -o hashback hashback.c -lssl -lcrypto
