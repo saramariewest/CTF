@@ -1,5 +1,4 @@
-
-
+```
  ________  ________  ________   _________  ___  ___  _____ ______   ________  _______   _______   ________        ________ _________  ________ 
 |\   __  \|\   __  \|\   ___  \|\___   ___\\  \|\  \|\   _ \  _   \|\   __  \|\  ___ \ |\  ___ \ |\   __  \      |\   ____\\___   ___\\  _____\
 \ \  \|\  \ \  \|\  \ \  \\ \  \|___ \  \_\ \  \\\  \ \  \\\__\ \  \ \  \|\ /\ \   __/|\ \   __/|\ \  \|\  \     \ \  \___\|___ \  \_\ \  \__/ 
@@ -10,20 +9,20 @@
           \|__|                                                                                                                                
                                                                                                                                                
                                                                                                                                                
+```
+Welcome to my CTF repository! 🚀
+This is where I collect my solutions to Capture-the-Flag (CTF) challenges, tools, and notes.
+📂 Contents
 
-Willkommen in meinem CTF-Repository! 🚀  
-Hier sammle ich meine Lösungen zu Capture-the-Flag (CTF) Herausforderungen, Tools und Notizen.  
+    writeups/ → My solutions for various CTF challenges
+    scripts/ → Useful scripts for exploits & automation
+    notes.md → Important commands & techniques
 
-## 📂 Inhalt
-- `writeups/` → Meine Lösungen für verschiedene CTF-Challenges  
-- `scripts/` → Nützliche Skripte für Exploits & Automatisierung  
-- `notes.md` → Wichtige Befehle & Techniken  
+🎯 Purpose
 
-## 🎯 Ziel
-Dieses Repository dient als meine persönliche Sammlung von CTF-Erfahrungen und als Lernressource für andere, die sich mit Security beschäftigen.  
+This repository serves as my personal collection of CTF experiences and as a learning resource for others interested in security.
+⚠️ Disclaimer
 
-## ⚠️ Disclaimer
-Die hier enthaltenen Inhalte sind nur zu Bildungszwecken gedacht. Bitte keine Exploits außerhalb von legalen CTF-Umgebungen verwenden!  
+All content in this repository is for educational purposes only. Please do not use exploits outside of legal CTF environments!
 
-Viel Spaß beim Hacken! 🛠️🔓
-
+Happy hacking! 🛠️🔓
