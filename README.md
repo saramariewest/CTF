@@ -29,7 +29,7 @@ Welcome to **Exploitarium**, my personal repository where I document my Capture-
 ## Why I Created This Repository
 I use this repository to document my learning progress in cybersecurity and penetration testing. Writing down solutions helps me retain knowledge, and sharing them might help others who are tackling similar challenges.
 
-## How I Use This Repo
+## How I Use This Repository
 1. **Writeups**: I store my challenge solutions inside `writeups/`, organized by category.
 2. **Scripts**: Any helpful exploit scripts I create go into the `scripts/` directory.
 3. **Notes**: I keep track of essential commands, methodologies, and techniques in `notes.md`.
