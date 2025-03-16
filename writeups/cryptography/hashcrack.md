@@ -27,7 +27,7 @@
 1. **Steps I took:**  
    - I used my own script for the first two hashes
    - The third hash was much longer and my script wasn´t able to "crack" the hash, so I took the hash with me to CrackStation x)
-   - With the cracked hash in my pocket, I went back to the server and was able to identify the last "password." Et voilà, I also received the flag ^^
+   - With the "cracked" hash in my pocket, I went back to the server and was able to identify the last password and et voilà, I also received the flag ^^
 
 2. **Flag:**  
    ```
