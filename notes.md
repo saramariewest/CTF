@@ -1,10 +1,10 @@
-# 📝 CTF Notes
+# CTF Notes
 
 This file contains useful commands, tools, and techniques I frequently use when solving CTF challenges.
 
 ---
 
-## 🔍 General Enumeration
+## General Enumeration
 
 - **Basic network scan with Nmap:**
   ```sh
@@ -21,7 +21,7 @@ This file contains useful commands, tools, and techniques I frequently use when 
 
 ---
 
-## 🖥️ Web Exploitation
+## Web Exploitation
 
 - **Check website technologies:**
   ```sh
@@ -36,7 +36,7 @@ This file contains useful commands, tools, and techniques I frequently use when 
 
 ---
 
-## 🔑 Cryptography
+## Cryptography
 
 - **Base64 Encode/Decode:**
   ```sh
@@ -51,7 +51,7 @@ This file contains useful commands, tools, and techniques I frequently use when 
 
 ---
 
-## 🛠️ Reverse Engineering
+## Reverse Engineering
 
 - **Analyze binary with Ghidra**
 - **Disassemble with Radare2:**
@@ -65,7 +65,7 @@ This file contains useful commands, tools, and techniques I frequently use when 
 
 ---
 
-## 🔎 Forensics
+## Forensics
 
 - **Extract file metadata:**
   ```sh
@@ -78,7 +78,7 @@ This file contains useful commands, tools, and techniques I frequently use when 
 
 ---
 
-## 🎯 Miscellaneous
+## Miscellaneous
 
 - **Crack hashes with Hashcat:**
   ```sh
