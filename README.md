@@ -15,6 +15,7 @@ Welcome to **Exploitarium**, my personal repository where I document my Capture-
 
 ## Repository Structure
 **Exploitarium/**  
+ ├── **scripts/** *(My custom scripts for exploits & automation)*  
  ├── **writeups/** *(My CTF challenge solutions, categorized by type)*  
  │    ├── **web_exploitation/** *(Web-based challenges)*  
  │    ├── **cryptography/** *(Cryptography challenges)*  
@@ -22,9 +23,8 @@ Welcome to **Exploitarium**, my personal repository where I document my Capture-
  │    ├── **forensics/** *(Forensics challenges)*  
  │    ├── **general_skills/** *(General security-related challenges)*  
  │    ├── **binary_exploitation/** *(Binary exploitation challenges)*  
- ├── **scripts/** *(My custom scripts for exploits & automation)*  
- ├── **notes.md** *(A collection of useful commands & techniques)*  
  ├── **README.md** *(This file - repository overview & guidelines)*  
+ ├── **notes.md** *(A collection of useful commands & techniques)* 
 
 ## Why I Created This Repository
 I use this repository to document my learning progress in cybersecurity and penetration testing. Writing down solutions helps me retain knowledge, and sharing them might help others who are tackling similar challenges.
