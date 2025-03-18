@@ -1,7 +1,7 @@
 ## Challenge Information
-**Name:** hashcrack
-**Category:** Cryptography
-**Points:** 100
+**Name:** hashcrack  
+**Category:** Cryptography  
+**Points:** 100  
 **Description:**
 > The challenge was to acess a secret message by "cracking" hashed passwords.
 
