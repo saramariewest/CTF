@@ -1,9 +1,9 @@
 ## Challenge Information
-**Name:** [hashcrack]  
-**Category:** [Cryptography]  
-**Points:** [100]  
-**Description:**  
-> [The challenge was to acess a secret message by "cracking" hashed passwords.]
+**Name:** hashcrack
+**Category:** Cryptography
+**Points:** 100
+**Description:**
+> The challenge was to acess a secret message by "cracking" hashed passwords.
 
 ## My Thought Process
 1. **Understanding the challenge:**  
